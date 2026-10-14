@@ -1,0 +1,26 @@
+Tier 1: master deeply (core for both)
+
+Ch 3–4 Sorting, binary search, sets, maps, heaps. Binary search on the answer especially.
+Ch 6 Greedy. Huge on CF, common in hard interviews.
+Ch 7 Dynamic programming. The single most important chapter for both. Go well beyond the book here.
+Ch 8 Two pointers, nearest smaller elements (monotonic stack), sliding window. Interview favorites, and frequent on CF.
+Ch 11–12 Graph basics, DFS and BFS.
+Ch 14 Tree algorithms, including diameter and rerooting (14.3). Trees show up everywhere.
+
+Tier 2: know well (separates good from very strong)
+
+Ch 9 Range queries: prefix sums, BIT, segment tree. Essential for high CF rating, and a "wow" topic in tough interviews.
+Ch 13 Dijkstra especially. Bellman–Ford and Floyd–Warshall just know.
+Ch 15 Union-find (DSU) in particular. Kruskal comes with it.
+Ch 16 Topological sort, DP on DAGs, cycle detection.
+Ch 10 Bit manipulation and bitmask DP (10.5).
+Ch 21–22.1 Primes, modular arithmetic, binomial coefficients. Mostly for CF; interviews rarely go deep here.
+Ch 26.2 Trie. Common in interviews.
+
+Tier 3: for high CF rating, mostly not interviews
+
+Ch 18 Binary lifting, LCA, Euler tour on trees.
+Ch 28.1 Lazy segment tree.
+Ch 22.3 Inclusion-exclusion.
+Ch 26.3–26.4 String hashing, Z-algorithm.
+Ch 5.5 Meet in the middle.

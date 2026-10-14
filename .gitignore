@@ -1,0 +1,17 @@
+# Compiled binaries (g++ outputs extensionless files): ignore everything without an extension
+*
+!*/
+!*.*
+!.gitignore
+
+# Build/debug artifacts
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
